@@ -1,0 +1,5 @@
+{
+  "name": "Leukemia Risk Detector",
+  "description": "A professional medical application simulation for detecting Leukemia risk based on real-time sensor data analysis.",
+  "requestFramePermissions": []
+}
